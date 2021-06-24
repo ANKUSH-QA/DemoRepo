@@ -15,6 +15,10 @@ public class Test2 {
 		
 		System.out.println("Passed");
 		
+		
+		System.out.println("Added from the remote this message");
+		
+		
 
 	}
 
